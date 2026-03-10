@@ -5,7 +5,7 @@
 
 <img width="372" height="422" alt="image" src="https://github.com/user-attachments/assets/df3e0477-051e-4615-a4b9-bad94dfa4951" />
 
-### Dosen Pengampu : 
+### Dosen Pengampu : Al Muhdil Karim, S.IP, M.Hum.
 ### Disusun oleh:
 ### Kelompok 1
 1. Imad Dzakwan Fawwaz (12402051050137)
@@ -55,7 +55,9 @@
 #### Selain itu, Harari juga menjelaskan bahwa kemampuan manusia menciptakan realitas intersubjektif memungkinkan terbentuknya sistem sosial manusia modern, seperti kebijakan ekonomi atau hubungan antarnegara, dipengaruhi oleh lembaga-lembaga yang pada dasarnya hanya ada karena adanya kesepatakan bersama masyarkat.Lebih lanjut, Harari menjelaskan adanya perbedaan pendekatan dalam memahami perilaku manusia antara ilmu biologi dan ilmu sejarah. 
 #### Para ahli biologi cenderung menjelaskan perilaku manusia melalui proses biologi cenderung menjelaskan perilaku manusia melalui proses biologis seperti genetika, hormon, serta aktivitas sistem saraf. Dalam perspektif ini, berbagai peristiwa dalam sejarah manusia, seperti peperangan atau konflik, dapat dilihat sebagai bagian dari proses evolusi atau persaingan antar kelompok. Sementara itu, para sejarawan lebih menekankan bahwa ide, cerita, serta kepercayaan kolektif memiliki peranan penting dalam membentuk tindakan manusia. Oleh karena itu, perkembangan sejarah manusia tidak dapat dijelaskan hanya melalui faktor biologis saja, tetapi juga melalui berbagai realitas intersubjektif yang diciptakan dan diyakini oleh manusia dalam kehidupan sosialnya.
 
-
+#### 2.3 Perbedaan Metodologis antara Sains dan Agama
+#### Terjadinya perbedaan pandangan terhadap sains dan agama mengenai suatu hal dapat memicu terjadinya konflik antar keduanya. Sains memandang suatu permasalahan menggunakan pemikiran manusia yang rasional dengan mencari solusi dari permasalahan itu sendiri dan menyelesaikannya secara teknis. Layaknya seorang ilmuwan ataupun peneliti, mereka memperoleh ilmu pengetahuan melalui observasi terhadap suatu permasalahan yang terjadi. Kemudian, dilakukannya eksperimen untuk menguji coba apakah observasi yang sebelumnya dilakukan itu berhasil atau tidak dalam menyelesaikan masalah. Dan yang terakhir, melakukan evaluasi dari hasil penelitian yang telah dilakukan untuk menilai sejauh mana keberhasilan ataupun kegagalan yang telah dilakukan dari eksperimen tersebut.
+#### Secara agama, ilmu pengetahuan diperoleh melalui waktu yang terdapat pada kitab kitab yang telah diturunkan kepada para Nabi dan juga melalui keyakinan bagi oran orang yang meyakininya. Selain itu, agama tidak hanya mengajarkan ilmu pengetahuan, tetapi juga mempelajari nilai nilai moral, etika, dan dan arti kehidupan. Oleh karena itu, agama lebih menekankan pada nilai nilai dan arti kehidupan, sedangkan sain berfokus pada penjelasan suatu hal yang dapat diamati dan dibuktikan kebenarannya secara nyata.
 
 
 #### 2.4 Analisis Mendalam Konflik antara Sains dan Agama
