@@ -1,3 +1,6 @@
+# RESUME MATERI KELOMPOK 1 
+## POLA HUBUNGAN ANTARA SAINS DAN AGAMA
+
 Konflik antara sains dan agama tidak selalu berhubungan dengan benar atau salah. Perbedaan tersebut lebih pada perbedaan cara pandang dalam 
 memahami realitas dunia. Sains berrupaya memahami berbagai fenomena melalui metode ilmiah, pengamatan, serta bukti berdasarkan pengamatan.
 
