@@ -137,12 +137,14 @@ Menurut jean Baudrillard teknologi sekarang sudah tidak bisa lagi dilihat sekeda
 
 2.3 Memberikan contoh kasus berdasarkan pengalaman pribadi terkait konsep teknologi dalam sudut pandang hiperrialitas
 
-1. Contoh kasus media sosial
-  Perkembangan teknologi digital telah membawa perubahan besar dalam kehidupan sehari-hari, khususnya dalam cara manusia memandang realitas. Dalam perspektif hiperrialitas, kehidupan modern tidak lagi sepenuhnya didasarkan pada kenyataan, melainkan pada representasi yang dibentuk melalui media. Salah satu contoh nyata dapat dilihat pada pengguna media sosial, dimana ada seseorang cenderung menampilkan citra diri yang telah diubah agar terlihat lebih menarik dan ideal.Foto dan video sehingga tidak lagi mencerminkan kondisi yang sebenarnya. 
+Contoh kasus 
 
-  Fenomena ini juga berdampak pada pembentukan indentitas diri. Banyak individu, terutama remaja, membangun jati dirinya berdasarkan standar yang berkembang didunia digital. Mereka sering membandingkan diri dengan influencer atau figur publik yang menampilkan kehidupan sempurna, sehingga menimbulkan rasa tidak percaya diri dan ketidakpuasan terhadap diri sendiri. Dalam hal ini, identitas yang terbentuk bukan lagi hasil refleksi pengalaman nyata, melainkan kontruksi sosial yang dipengaruhi oleh citra digital. 
+1. Contoh kasus Unggahan foto pada media sosial
+Perkembangan teknologi digital telah membawa perubahan besar dalam kehidupan sehari-hari, khususnya dalam cara manusia memandang realitas. Dalam perspektif hiperrialitas, kehidupan modern tidak lagi sepenuhnya didasarkan pada kenyataan, melainkan pada representasi yang dibentuk melalui media. Salah satu contoh nyata dapat dilihat pada pengguna media sosial, dimana ada seseorang cenderung menampilkan citra diri yang telah diubah agar terlihat lebih menarik dan ideal.Foto dan video sehingga tidak lagi mencerminkan kondisi yang sebenarnya. 
 
-Selain itu, konsep hiperrealitas juga dapat dilihat dalam tayangan reality show ditelevisi. Meskipun diklain sebagai gambran kehidupan nyata, pada kenyataan banyak adegan yang telah diatur atau dipengaruhi oleh kebutuhan produksi. Individu yang terlibat dalam acara tersebut cenderung menyesuaikan perilakunya agar sesuai ekspetasi penonton. Akibatnya, realitas yang ditampilkan karena telah bercampur dengan unsur simulasi yang diciptakan oleh media. 
+Fenomena ini juga berdampak pada pembentukan indentitas diri. Banyak individu, terutama remaja, membangun jati dirinya berdasarkan standar yang berkembang didunia digital. Mereka sering membandingkan diri dengan influencer atau figur publik yang menampilkan kehidupan sempurna, sehingga menimbulkan rasa tidak percaya diri dan ketidakpuasan terhadap diri sendiri. Dalam hal ini, identitas yang terbentuk bukan lagi hasil refleksi pengalaman nyata, melainkan kontruksi sosial yang dipengaruhi oleh citra digital. 
+
+Selain itu, konsep hiperrealitas juga dapat dilihat dalam tayangan reality show ditelevisi. Meskipun diklain sebagai gambaran kehidupan nyata, pada kenyataan banyak adegan yang telah diatur atau dipengaruhi oleh kebutuhan produksi. Individu yang terlibat dalam acara tersebut cenderung menyesuaikan perilakunya agar sesuai ekspetasi penonton. Akibatnya, realitas yang ditampilkan karena telah bercampur dengan unsur simulasi yang diciptakan oleh media. 
 
 Dengan demikian, teknologi tidak hanya berfungsi sebagai alat komunikasi, tetapi juga sebagai pembentuk realitas baru dalam kehidupan manusia. Kondisi ini menuntut adanya kesadaran kritis agar individu mampu membedakan antara kenyataan dan representasi semu. Tanpa kesadaran tersebut, manusia beresiko terjebak dalam dunia hiperrealitas yang dapat memengaruhi cara berpikir, berperilaku, dan membangun identitas diri. 
 
@@ -153,7 +155,7 @@ Contoh nyata dapat ditemukan oada konten viral menngenai tempat wisata. Banyak d
 
 Namun, ketika pengunjung ddatang langsung ke lokasi, sering kali mereka menemukan kenyataan yang berbeda. Tempat wisata tersebut mungkin lebih ramai, kurang terawat, atau tidak seindah yang berada dividio dalam konten digital. Meskipun demikian, citra yang telah terbentuk dalam media sosial tetap memegaruhi persepsi banyak orang. Mereka cenderung lebih mempercayai representasi visual yang telah dikontruksi dibandingkan pengalaman nyata yang mereka alami sendiri. 
 
-Dalam perspektif hiperrealita, kondisi ini menunjukkan bahwa simulasi yang dihasilkan oleh teknologi telah menggantikan realitas itu sendiri. Individu tidak lagi berinteraksi dengan kenyataan secara langsung, melainkan dengan citra yang telah dibentuk oleh media. Oleh karena itu, diperlukan kesadaran kritis dalam menyikapi informasi digital agar masyarakat tidak mudah terjebak dalam realitas semu yang dapat memengaruhi cara pandang dan pengambilan keputusan dalam kehidupan seharai-hari. 
+Dalam perspektif hiperrealitas, kondisi ini menunjukkan bahwa simulasi yang dihasilkan oleh teknologi telah menggantikan realitas itu sendiri. Individu tidak lagi berinteraksi dengan kenyataan secara langsung, melainkan dengan citra yang telah dibentuk oleh media. Oleh karena itu, diperlukan kesadaran kritis dalam menyikapi informasi digital agar masyarakat tidak mudah terjebak dalam realitas semu yang dapat memengaruhi cara pandang dan pengambilan keputusan dalam kehidupan seharai-hari. 
 
 ## DAFTAR PUSTAKA 
 
