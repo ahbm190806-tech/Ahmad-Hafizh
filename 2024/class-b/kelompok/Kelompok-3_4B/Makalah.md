@@ -1,6 +1,25 @@
-# 
-<img src="/2024/class-b/LOGO_UIN_JKT.png" alt="Logo_UIN_JAKARTA" width="500" height="600">
+<div align="center">
+  <h1>Transformasi Ekosistem Teknologi: Dari Dominasi Negara ke Era Kolaborasi Terbuka</h1>
+  Disusun untuk Memenuhi Tugas Mata Kuliah Arsip dan Digital Perpustakaan
+  <p>Dosen Pengampu:</p>
+  <b>Al Mudhil Karim S.Ip, M.Hum.</b>
+  
+  <img src="/2024/class-b/LOGO_UIN_JKT.png" width="500" height="600"><br><br>
+  <br><br><br>
+  <b>Disusun Oleh:</b><br>
+  Muhammad Ridho Nur Islam (12402051030059)<br>
+  Muhammad Fauzan Azhimi (12402051050122)<br>
+  Silvi Nur Aini (12402051030048)<br><br><br>
+  <br>
+  <b>PROGRAM STUDI ILMU PERPUSTAKAAN <br>
+  FAKULTAS ADAB DAN HUMANIORA<b/><br>
+  <b>UNIVERSITAS ISLAM NEGERI<br>
+  SYARIFHIDAYATULLAH<br>
+  JAKARTA
+  <b>2026<b/>
+</div>
 
+</p>
 
 
 ## 1.2 Rumusan Masalah
