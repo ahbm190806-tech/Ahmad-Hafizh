@@ -12,4 +12,8 @@ Di masa sekarang, kedua model ini sama-sama penting dan digunakan sesuai kebutuh
 ## Kesimpulan 
 Open source dan closed source sama-sama penting di masa sekarang. Open source mendorong inovasi melalu keterbukaan san kolaborasi, sedangkan closed source memberikan kemudahan dan keamanan. Jadi keduanya tidak saling bertentangan tetapi saling melengkapi sesuai dengan kebutuhan pengguna dan perkembangan teknologi.
 
+---
 ### Daftar Pustaka
+Berlin, L. (2017). *Troublemakers: Silicon Valley's coming of age.* New York, NY: Simon & Schuster
+Hussain, S., Bahadur, F., Gul, F., Iqbal, A., & Nazeer, S. (2015). Comparative study of open source verses closed source with respect to user's perspectives. *International journal of computer, 17(1)*.
+Webopedia. (n.d.). Open source vs. closed source software. Retrieved April 10, 2026.
