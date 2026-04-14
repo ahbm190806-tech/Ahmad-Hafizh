@@ -107,7 +107,10 @@ Yang ketiga, mampu menganalisis kebutuhan pemustaka yang berkembang, pustakawan 
 
 ### BAB 3 PENUTUP
 #### 3.1. Kesimpulan
+Di era modern ini, perpustakaan tidak hanya menyimpan koleksi fisik tetapi juga menyediakan layanan digital, sehingga 5 hukum perpustakaan telah berevolusi dan beradaptasi dengan kemajuan zaman. Seiring meningkatnya pemanfaatan teknologi, terdapat cyberethic yang mengatur agar para pengguna teknologi dapat memanfaatkannya dengan bijaksana serta melindungi data dari pengambilan, perusakan dan manipulasi oleh pihak yang tidak berwenang.  
 
+Keamanan siber sangat penting untuk menjaga data dan dokumen digital, karena melihat kasus yang terjadi seperti kebocoran data akibat lemahnya sistem pertahanan dan kurangnya pembaruan sistem. Maka dari itu, perpustakaan dan arsip digital perlu memperkuat keamanan sistem, mengenali vektor serangan siber, serta menerapkan prinsip-prinsip keamanan seperti pengendalian akses dan enkripsi. Oleh karena itu, perpustakaan dan arsip digital perlu menyajikan layanan yang optimal, mampu menyesuaikan diri dengan dunia digital, serta mengenali kebutuhan pengguna agar keamanan data terjamin dan kepercayaan pemustaka tetap terjaga. 
+ 
 
 ### DAFTAR PUSTAKA
 Addin, H. S., Anggraini, H., Yenti, H. N. R. P., Sari, F. W., & Hidayat, I. (2024). Strategi Pengembangan Koleksi Perpustakaan Digital. Media Informasi, 33(1), 88–95. https://doi.org/10.22146/mi.v33i1.11481
