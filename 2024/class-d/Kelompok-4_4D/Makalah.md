@@ -49,4 +49,5 @@ Segala puji bagi Allah SWT yang telah memberikan kami kemudahan sehingga kami da
 6. Untuk menjelaskan faktor yang harus dikembangkan dan ditingkatkan dalam bagi perpustakaan dan arsip digital.
 
 7. # BAB II PEMBAHASAN
-   ## 2.1
+   ## 2.1 Bagaimana evolusi 5 hukum perpustakaan?
+   
